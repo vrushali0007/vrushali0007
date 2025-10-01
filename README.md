@@ -24,8 +24,8 @@ I work at the intersection of **Data Analytics, Product, and Strategy**, using d
    - Owned product metrics (QuickSight dashboards), requirement gathering, and customer feedback loops.  
    - Increased engagement scores by **16% (68% → 84%)** across participating teams.
      
-- **[Hindu Calendar](https://github.com/vrushali0007/hindu-calendar)**  
-   📱 Hindu Calendar – A geo-aware, data-intensive calendar system automating complex festival and time-based calculations.  
+- **[Astro Calendar](https://github.com/vrushali0007/hindu-calendar)**  
+   📱 Astro – A geo-aware, data-intensive calendar system automating complex festival and time-based calculations.  
    - Automated adjustments for user location, covering **30+ major festivals** and **daily Rahu Kaal timings**.  
    - Generated **ICS files** for one-click integration with Google/Apple calendars.  
    - Solved edge cases like Ganesh Chaturthi and Pitru Paksha calculations that traditional apps/websites require manual lookup for.  
